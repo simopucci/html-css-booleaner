@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 0px;
 }
 
 header {
@@ -15,3 +15,30 @@ header {
     padding-top: 100px;
     padding-left: 10px;
 }
+
+h1 {
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.credits {
+    margin-top: 5px;
+    color: grey;
+    margin-bottom: 0;
+}
+
+.grey {
+    color: grey;
+}
+
+#authors {
+    text-decoration: none;
+    color: rgb(18 164 227);
+}
+
+figure {
+    margin-left: 0;
+    margin-top: 20px;
+}
+
