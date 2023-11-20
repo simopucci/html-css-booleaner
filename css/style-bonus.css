@@ -1,0 +1,105 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(78 160 255);
+    height: 150px;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.logo {
+    width: 200px;
+    padding-top: 100px;
+    padding-left: 150px;
+}
+
+h1 {
+    font-size: 60px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.credits {
+    margin-top: 5px;
+    color: grey;
+    margin-bottom: 0;
+}
+
+.grey {
+    color: grey;
+}
+
+#authors {
+    text-decoration: none;
+    color: rgb(18 164 227);
+}
+
+figure {
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+main {
+    font-size: 20px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 20px;
+}
+
+table {
+    width:  100%;
+    text-align: left;
+    border-spacing: 0;
+}
+
+th {
+    background-color: rgb(32 169 229);
+    color: white;
+}
+
+.th-description {
+    width: 50%;
+}
+
+.blue-row {
+    background-color: rgb(177 229 242);
+}
+
+footer {
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+.correlati {
+    padding: 10px;
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.correlati2 {
+    margin-top: 10px;
+    padding: 10px;
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+
+h3 {
+    margin: 0;
+    color: white;
+    font-size: 20px;
+}
