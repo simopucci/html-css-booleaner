@@ -77,3 +77,29 @@ th {
 .blue-row {
     background-color: rgb(177 229 242);
 }
+
+footer {
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+.correlati {
+    padding: 10px;
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.correlati2 {
+    margin-top: 10px;
+    padding: 10px;
+    width: 250px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+}
+
+h3 {
+    margin: 0;
+    color: white;
+    font-size: 20px;
+}
